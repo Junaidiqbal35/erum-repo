@@ -492,32 +492,36 @@
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging._compat',
+  ('pkg_resources._vendor.packaging.requirements',
    'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
   ('typing',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\typing.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging._structures',
+  ('pkg_resources._vendor.packaging.specifiers',
    'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging.__about__',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.utils',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.requirements',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\requirements.py',
-   'PYMODULE'),
   ('pkg_resources._vendor.packaging.version',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._structures',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
    'PYMODULE'),
   ('pkg_resources._vendor.pyparsing',
    'e:\\upwork '
@@ -541,13 +545,25 @@
   ('ctypes.macholib.framework',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\ctypes\\macholib\\framework.py',
    'PYMODULE'),
+  ('pkg_resources._vendor.appdirs',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._typing',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
+   'PYMODULE'),
   ('pkg_resources._vendor.packaging.markers',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
-  ('pkg_resources._vendor.packaging.specifiers',
+  ('pkg_resources._vendor.packaging.utils',
    'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\specifiers.py',
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\utils.py',
+   'PYMODULE'),
+  ('pkg_resources._vendor.packaging._compat',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('pkg_resources._vendor.packaging.tags',
    'e:\\upwork '
@@ -648,22 +664,6 @@
    'PYMODULE'),
   ('distutils.errors',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\distutils\\errors.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging.__about__',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\__about__.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.packaging._typing',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\packaging\\_typing.py',
-   'PYMODULE'),
-  ('pkg_resources._vendor.appdirs',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\pkg_resources\\_vendor\\appdirs.py',
    'PYMODULE'),
   ('sysconfig',
    'C:\\Users\\LENOVO\\AppData\\Local\\Programs\\Python\\Python36-32\\lib\\sysconfig.py',
@@ -1221,45 +1221,45 @@
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\__init__.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging._structures',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging._typing',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
-   'PYMODULE'),
-  ('setuptools._vendor.pyparsing',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
-   'PYMODULE'),
-  ('setuptools._vendor.packaging.specifiers',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
-   'PYMODULE'),
   ('setuptools._vendor.packaging.__about__',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__about__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._compat',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.utils',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\utils.py',
    'PYMODULE'),
+  ('setuptools._vendor.packaging.version',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'PYMODULE'),
   ('setuptools._vendor.packaging.markers',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\markers.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging.version',
+  ('setuptools._vendor.packaging.specifiers',
    'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\version.py',
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\specifiers.py',
+   'PYMODULE'),
+  ('setuptools._vendor',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\__init__.py',
+   'PYMODULE'),
+  ('setuptools._vendor.pyparsing',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\pyparsing.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._structures',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_structures.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\__init__.py',
    'PYMODULE'),
   ('setuptools._vendor.packaging.tags',
    'e:\\upwork '
@@ -1269,13 +1269,13 @@
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\requirements.py',
    'PYMODULE'),
-  ('setuptools._vendor.packaging._compat',
-   'e:\\upwork '
-   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_compat.py',
-   'PYMODULE'),
   ('setuptools._vendor.ordered_set',
    'e:\\upwork '
    'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\ordered_set.py',
+   'PYMODULE'),
+  ('setuptools._vendor.packaging._typing',
+   'e:\\upwork '
+   'projects\\dual_mic_recorder\\venv\\lib\\site-packages\\setuptools\\_vendor\\packaging\\_typing.py',
    'PYMODULE'),
   ('setuptools.msvc',
    'e:\\upwork '
